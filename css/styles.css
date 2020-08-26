@@ -10143,7 +10143,7 @@ h3 {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 50rem;
+  width: 30rem;
 }
 
 @media (min-width: 992px) {
@@ -10258,4 +10258,8 @@ form .row:first-child .floating-label-form-group {
 
 .copyright {
   background-color: #1a252f;
+}
+
+.ddimg{
+  max-width: 20%;
 }
